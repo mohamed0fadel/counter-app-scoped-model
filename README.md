@@ -2,6 +2,23 @@
 
 A new Flutter application.
 
+<img src=https://github.com/mohamed0fadel/counter-app-scoped-model/blob/master/screenshots/1.png width="300"/>
+
+
+- single scoped model used in the screen
+
+
+
+
+<img src=https://github.com/mohamed0fadel/counter-app-scoped-model/blob/master/screenshots/2.png width="300"/>
+
+
+
+- two scoped models used to handle two counters in the same screen
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
